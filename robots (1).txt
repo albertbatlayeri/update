@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://update.lelemuku.com/sitemap.xml
